@@ -10,11 +10,11 @@
 }
 @font-face {
     font-family: railway_f;
-    src: url(/websolutons//fonts/raleway-regular.woff2);
+    src: url(/websolutions//fonts/raleway-regular.woff2);
 }
 @font-face {
     font-family: railway_f;
-    src: url(/websolutons//fonts/raleway-black.woff2);
+    src: url(/websolutions//fonts/raleway-black.woff2);
     font-weight: 900;
 }
 body {
@@ -32,7 +32,7 @@ body {
     z-index: 100;
     width: 100%;
     height: calc(var(--index) * 10);
-    background-image: url(/websolutons//img/ground.png);
+    background-image: url(/websolutions//img/ground.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
